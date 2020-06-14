@@ -13,3 +13,6 @@ update5
 test2
 test3
 test4
+new_test1
+new_test2
+new_test3
