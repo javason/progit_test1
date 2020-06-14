@@ -16,3 +16,5 @@ test4
 new_test1
 new_test2
 new_test3
+Cherry-pick test1
+Cherry-pick test2
